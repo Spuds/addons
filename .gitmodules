@@ -12,4 +12,4 @@
 	url = git@bitbucket.org:spuds_/elk_membermap.git
 [submodule "addons/solvedTopics"]
 	path = addons/solvedTopics
-	url = git@bitbucket.org:spuds_/solved-topics.git
+	url = git@github.com:Spuds/ElkArte_SolvedTopics.git
