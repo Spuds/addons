@@ -7,3 +7,6 @@
 [submodule "addons/topic_tags"]
 	path = addons/topic_tags
 	url = git@github.com:emanuele45/topic_tags
+[submodule "addons/test1"]
+	path = addons/test1
+	url = git@bitbucket.org:spuds_/elk_membermap.git
